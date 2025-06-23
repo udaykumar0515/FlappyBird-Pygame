@@ -21,8 +21,8 @@ An interactive and customizable version of the classic Flappy Bird game built us
 
 
 <p align="center">
-  <img src="screenshots/start.png" alt="Start Screen" width="350"/>
-  <img src="screenshots/gameplay.png" alt="Gameplay" width="350"/>
+  <img src="screenshots/start.png" alt="Start Screen" width="350"/><dr>
+  <img src="screenshots/gameplay.png" alt="Gameplay" width="350"/><dr>
   <img src="screenshots/maps.png" alt="Map Selection" width="350"/>
 </p>
 
