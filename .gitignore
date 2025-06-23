@@ -1,0 +1,10 @@
+# Ignore unwanted folders
+__pycache__/
+extras/
+Thumbs.db
+
+# Ignore common document/report files
+*.pdf
+*.docx
+*.pptx
+*.db

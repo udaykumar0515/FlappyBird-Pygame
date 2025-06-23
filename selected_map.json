@@ -1,0 +1,13 @@
+{
+    "map_id": 1,
+    "name": "Classic Day",
+    "assets": {
+        "base": "classic-day-base.png",
+        "pipe": "classic-day-pipe.png",
+        "background": "classic-day.png"
+    },
+    "scaling": [
+        400,
+        600
+    ]
+}
