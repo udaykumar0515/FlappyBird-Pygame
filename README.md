@@ -19,7 +19,6 @@ An interactive and customizable version of the classic Flappy Bird game built us
 
 ## 🖼️ Screenshots
 
-> Add these images in a `screenshots/` folder in your project and push them with Git.
 
 ![Start Screen](screenshots/start.png)  
 ![Gameplay](screenshots/gameplay.png)  
