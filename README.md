@@ -22,8 +22,17 @@ An interactive and customizable version of the classic Flappy Bird game built us
 
 <p align="left">
   <img src="screenshots/start.png" alt="Start Screen" width="400"/><br>
+  <em>Start Screen – choose difficulty and map</em>
+</p>
+
+<p align="center">
   <img src="screenshots/gameplay.png" alt="Gameplay" width="400"/><br>
-  <img src="screenshots/maps.png" alt="Map Selection" width="400"/>
+  <em>Gameplay – animated sprites and pipe obstacles</em>
+</p>
+
+<p align="center">
+  <img src="screenshots/maps.png" alt="Map Selection" width="400"/><br>
+  <em>Map Selection – hoverable and clickable map themes</em>
 </p>
 
 ---
