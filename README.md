@@ -20,7 +20,7 @@ An interactive and customizable version of the classic Flappy Bird game built us
 ## 🖼️ Screenshots
 
 
-<p align="center">
+<p align="left">
   <img src="screenshots/start.png" alt="Start Screen" width="400"/><br>
   <img src="screenshots/gameplay.png" alt="Gameplay" width="400"/><br>
   <img src="screenshots/maps.png" alt="Map Selection" width="400"/>
