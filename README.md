@@ -91,16 +91,14 @@ FlappyBird-Pygame/
 
 ## 👥 Contributors
 
-| Name              GitHub                                 |
-|------------------|-----------------------------------------|
-| Udaykumar H.     | Lead Developer    | [@udaykumar0515](https://github.com/udaykumar0515) |
-| Pranay           | [@pranaysmiley](https://github.com/Pranaysmiley)   |
-| Madhan           |                   |
-
-> _Replace the GitHub links if Pranay and Madhan have accounts. If they don’t, you can just leave that field blank or write `N/A`._
-
+| Name           | GitHub                                      |
+|----------------|---------------------------------------------|
+| Udaykumar H.   | [@udaykumar0515](https://github.com/udaykumar0515) |
+| Pranay         | [@pranaysmiley](https://github.com/pranaysmiley)   |
+| Madhan         | N/A                                         |
 
 ---
+
 
 ## 🏁 Project Status
 
