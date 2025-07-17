@@ -73,7 +73,7 @@ FlappyBird-Pygame/
 ├── main_game.py       
 ├── map_selection.py   
 ├── high_scores.csv   
-├── student_data.csv   
+├── player_data.csv 
 ├── selected_map.json  
 └── README.md
 ```
