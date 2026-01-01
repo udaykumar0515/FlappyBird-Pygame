@@ -1,5 +1,12 @@
-# Ignore unwanted folders
+# Python cache files
 __pycache__/
+*.py[cod]
+*$py.class
+
+# Documentation file (local only)
+PROJECT_FULL_DOC.md
+
+# Ignore unwanted folders
 extras/
 Thumbs.db
 
@@ -8,4 +15,4 @@ Thumbs.db
 *.docx
 *.pptx
 *.db
-PROJECT_FULL_DOC.md
+documents/
